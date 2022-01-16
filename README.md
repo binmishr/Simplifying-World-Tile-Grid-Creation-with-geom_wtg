@@ -3,15 +3,13 @@
 The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
 You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
-The concerned R package worldtilegrid is attached as .ZIP file with this repository.
-
 WorldTileGrid Package - A Brief Introduction
 =============================================
 
 A “tile grid map” is a cartogram that uses same-sized tiles in approximate, relative positions of each other to represent a world map.The world tile grid relative position reference system used by this ‘ggplot2’ ‘Geom/Stat’ was the original work of ‘Jon Schwabish’ and converted to ‘CSV’ by ‘Maarten Lambrechts’.
 
-Ref: https://policyviz.com/2017/10/12/the-world-tile-grid-map/
-Ref:http://www.maartenlambrechts.com/2017/10/22/tutorial-a-worldtilegrid-with-ggplot2.html
+        Ref: https://policyviz.com/2017/10/12/the-world-tile-grid-map/
+        Ref:http://www.maartenlambrechts.com/2017/10/22/tutorial-a-worldtilegrid-with-ggplot2.html
 
 What’s Inside The Tin
 The following functions are implemented:
